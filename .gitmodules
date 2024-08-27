@@ -6,3 +6,6 @@
 	url = git@github.com:Felipe-Sarmento/dice-roller-server.git
 
 
+[submodule "client"]
+	path = client
+	url = git@github.com:Felipe-Sarmento/dice-roller-ui.git
